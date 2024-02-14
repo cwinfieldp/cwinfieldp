@@ -21,6 +21,7 @@ A little bit more about me
 - 🌱 I’m currently learning about SQL on Coursera
 - 🤔 I’m looking for help with learning about cloud security
 - 📫 How to reach me: cwinfieldp7@gmail.com
-- Instagram: https://www.instagram.com/calebpeterson3/
+- ![image](https://github.com/cwinfieldp/cwinfieldp/assets/149834667/d555fb6a-9bfc-40e6-8866-6815ac629369)
+Instagram: https://www.instagram.com/calebpeterson3/
 - Linkedin: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
 - ⚡ Fun fact: I've traveled to 48/50 states and I've been to 20 countries
