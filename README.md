@@ -5,8 +5,7 @@
 - <b>Python</b>
   - [Password Generator)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Certifications:</h2>
-- <b> Certifications </b>
-  - Comptia A+
+- <b>  - Comptia A+ </b>
   - Google IT Support
 <h2> 🤳 Connect with me:</h2>
 [instagram]: https://www.instagram.com/calebpeterson3/
