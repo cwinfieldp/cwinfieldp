@@ -5,9 +5,9 @@
 - <b>Python</b>
   - [Password Generator)](https://github.com/cwinfieldp/PythonPasswordGenerator/blob/main/README.md)
 <h2> Certifications:</h2>
-- <b> Comptia A+ </b>
+<b> Comptia A+ </b>
 
-- <b> Google IT Support </b> 
+<b> Google IT Support </b> 
 <h2> 🤳 Connect with me:</h2>
 [instagram]: https://www.instagram.com/calebpeterson3/
 
