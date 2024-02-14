@@ -7,7 +7,7 @@ I am a results-driven professional transitioning from inside sales to pursue a r
 <h2> IT Home Labs:</h2>
 
 <h2>👨‍💻 Python Projects:</h2>
-- Password Generator https://cwinfieldp.github.io/PythonPasswordGenerator/
+- Password Generator (https://cwinfieldp.github.io/PythonPasswordGenerator/)
 <h2> Certifications:</h2>
 <b> Comptia A+ </b>
 
