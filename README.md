@@ -1,6 +1,6 @@
 <h1>Hi, I'm Caleb! <br/><a href="[https://github.com/cwinfieldp]">IT Professional
 
-
+<h2> IT Home Labs:</h2>
 <h2>👨‍💻 Python Projects:</h2>
 - <b>Python</b>
   - [Password Generator)](https://github.com/cwinfieldp/PythonPasswordGenerator/blob/main/README.md)
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Active Directory Lab
 - 🌱 I’m currently learning about SQL on Coursera
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with  Learning about cloud security
 - 💬 Ask me about ...
 - 📫 How to reach me: cwinfieldp7@gmail.com
-- ⚡ Fun fact: Ive traveled to 18/50 states and I've been to 20 countries
+- ⚡ Fun fact: Ive traveled to 48/50 states and I've been to 20 countries
 -->
