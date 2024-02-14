@@ -10,15 +10,15 @@
 <b> Google IT Support </b> 
 <h2> 🤳 Connect with me:</h2>
 
-[instagram]: https://www.instagram.com/calebpeterson3/
 
-[linkedin]: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Active Directory Lab
 - 🌱 I’m currently learning about SQL on Coursera
-- 🤔 I’m looking for help with  Learning about cloud security
+- 🤔 I’m looking for help with learning about cloud security
 - 💬 Ask me about ...
 - 📫 How to reach me: cwinfieldp7@gmail.com
+- [instagram]: https://www.instagram.com/calebpeterson3/
+- [linkedin]: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
 - ⚡ Fun fact: Ive traveled to 48/50 states and I've been to 20 countries
