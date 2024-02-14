@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="[https://github.com/cwinfieldp]">IT Professional
+<h1>Hi, I'm Caleb! <br/><a href="[https://github.com/cwinfieldp]"> Aspiring IT Professional
 
 <h2> IT Home Labs:</h2>
 
