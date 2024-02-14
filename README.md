@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Caleb! <br/><a href="https://github.com/joshmadakor1">IT Professional
 
 <h2>👨‍💻 Python Projects:</h2>
 - <b>Python</b>
@@ -11,8 +11,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/calebpeterson3/
 [linkedin]: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
 <!--
