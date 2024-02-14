@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 - <b>Python</b>
-  - [Password Generator)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Generator)](https://github.com/cwinfieldp/PythonPasswordGenerator/blob/main/README.md)
 <h2> Certifications:</h2>
 - <b> Comptia A+ </b>
 <b> Google IT Support </b> 
