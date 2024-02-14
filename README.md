@@ -6,9 +6,11 @@
   - [Password Generator)](https://github.com/cwinfieldp/PythonPasswordGenerator/blob/main/README.md)
 <h2> Certifications:</h2>
 - <b> Comptia A+ </b>
+
 <b> Google IT Support </b> 
 <h2> 🤳 Connect with me:</h2>
 [instagram]: https://www.instagram.com/calebpeterson3/
+
 [linkedin]: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
 
 Here are some ideas to get you started:
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: cwinfieldp7@gmail.com
 - ⚡ Fun fact: Ive traveled to 48/50 states and I've been to 20 countries
--->
