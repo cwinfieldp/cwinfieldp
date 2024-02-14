@@ -12,8 +12,7 @@
 
 
 
-Here are some ideas to get you started:
-
+A little bit more about me
 - 🔭 I’m currently working on an Active Directory Lab
 - 🌱 I’m currently learning about SQL on Coursera
 - 🤔 I’m looking for help with learning about cloud security
