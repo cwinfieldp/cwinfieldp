@@ -23,4 +23,4 @@ A little bit more about me
 - 📫 How to reach me: cwinfieldp7@gmail.com
 - instagram: https://www.instagram.com/calebpeterson3/
 - linkedin: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
-- ⚡ Fun fact: Ive traveled to 48/50 states and I've been to 20 countries
+- ⚡ Fun fact: I've traveled to 48/50 states and I've been to 20 countries
