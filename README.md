@@ -22,5 +22,5 @@ A little bit more about me
 - 🤔 I’m looking for help with learning about cloud security
 - 📫 How to reach me: cwinfieldp7@gmail.com
 - 📷Instagram: https://www.instagram.com/calebpeterson3/
-- 💼 Linkedin: https://www.linkedin.com/in/caleb-peterson-b3a5a393/
+- 💼 Linkedin: https://www.linkedin.com/in/caleb-peterson3/
 - ⚡ Fun fact: I've traveled to 48/50 states and I've been to 20 countries
