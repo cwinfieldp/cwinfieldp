@@ -19,7 +19,7 @@ I created an Active Directory Homelab on an Oracle Virtual Machine. Too see my e
 A little bit more about me
 - 🔭 I’m just finished working on an Active Directory Home Lab, https://youtu.be/9w9OvES4kdk
 - 🌱 I’m currently learning about SQL on Coursera
-- 🤔 I’m looking for help with learning about cloud security
+- 🤔 I’m looking for help with learning about Cloud Security
 - 📫 How to reach me: cwinfieldp7@gmail.com
 - 📷Instagram: https://www.instagram.com/calebpeterson3/
 - 💼 Linkedin: https://www.linkedin.com/in/caleb-peterson3/
