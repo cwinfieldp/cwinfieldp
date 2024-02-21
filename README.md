@@ -5,7 +5,7 @@ I am a results-driven professional transitioning from inside sales to pursue a r
 
 
 <h2> IT Home Labs:</h2>
-
+I created an Active Directory Homelab on an Oracle Virtual Machine. Too see my entire step by step breakdown of the lab please see my Youtube video https://youtu.be/9w9OvES4kdk 
 <h2>👨‍💻 Python Projects:</h2>
 - Password Generator (https://github.com/cwinfieldp/PythonPasswordGenerator)
 <h2> Certifications:</h2>
@@ -17,7 +17,7 @@ I am a results-driven professional transitioning from inside sales to pursue a r
 
 
 A little bit more about me
-- 🔭 I’m currently working on an Active Directory Lab
+- 🔭 I’m just finished working on an Active Directory Home Lab, https://youtu.be/9w9OvES4kdk
 - 🌱 I’m currently learning about SQL on Coursera
 - 🤔 I’m looking for help with learning about cloud security
 - 📫 How to reach me: cwinfieldp7@gmail.com
